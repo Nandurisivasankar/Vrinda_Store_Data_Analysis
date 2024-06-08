@@ -1,5 +1,5 @@
-![img-1](https://github.com/Nandurisivasankar/Vrinda-Store-Data-Analysis/assets/155547931/b011a81f-8bbd-43f1-919b-a5eed9de8a65)
 
+![img-1](https://github.com/Nandurisivasankar/Vrinda-Store-Data-Analysis/assets/155547931/de301b48-88f7-4adf-8fda-67fd4283a807)
 
 🌟Business Scenario: Vrinda Stores is a clothing company that operates through various channels across different states. They require insights based on data for strategic marketing. 📈
 
