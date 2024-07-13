@@ -3,9 +3,9 @@
 
 # Vrindha Store Data Analysis Using Excel
 
-  📍Download the dataset [**dataset**](https://nanduri.carrd.co/#one) from here.
+  📍Download the dataset [**dataset**](https://kluniversityin-my.sharepoint.com/:x:/g/personal/2000031203_kluniversity_in/EQAdrOkMOZdFuPYbDbET49QBo484pKE2z2_4mxk937Yg-A?rtime=L18CrjGj3Eg&nav=MTVfezk0MDBDMzNDLTMyMTEtNDFFMC1BODcwLUU2MjA2NDE5MDZCRH0) from here.
 
-  📍Download the complete [**report**](https://nanduri.carrd.co/#one) from here.
+  📍Download the complete [**report**](https://kluniversityin-my.sharepoint.com/:x:/g/personal/2000031203_kluniversity_in/EQAdrOkMOZdFuPYbDbET49QBo484pKE2z2_4mxk937Yg-A?e=b6DHcc&nav=MTVfezlENzM1ODdBLUY2RTItNEU5OS1CQkE1LTE0MEFCRkYyMTZGOX0) from here.
 
   # Objective
   Vrindha Store wants to create an annual sales report for 2023. So that, this store can understand their customers and grow more sales in 2024. Implemented an advanced Fashion Store Dashboard using **EXCEL**.
