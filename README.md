@@ -1,10 +1,24 @@
 
 ![img-1](https://github.com/Nandurisivasankar/Vrinda-Store-Data-Analysis/assets/155547931/de301b48-88f7-4adf-8fda-67fd4283a807)
 
-🌟Business Scenario: Vrinda Stores is a clothing company that operates through various channels across different states. They require insights based on data for strategic marketing. 📈
+# Vrindha Store Data Analysis Using Excel
 
-🌟Workflow: Performed Data Cleaning and preprocessing, then created a dashboard using pivot tables, pivot charts and slicers. 📊
+  📍Download the dataset[**dataset**](https://nanduri.carrd.co/#one) from here.
 
-🌟 Insights Obtained: March emerged as a sales powerhouse, implying a seasonal trend worth capitalizing on. The buying force of women stood out, driving the majority of sales and top states were known. Adult women emerged as a crucial demographic, underlining their significance as customers. Notably, Amazon drove the most revenue among various channels.
+  📍Download the complete [**report**](https://nanduri.carrd.co/#one) from here.
 
-🌟 Recommendations: Focused advertising efforts were proposed, honing in on women aged 30-49 in key states. Furthermore, a multi-channel approach was suggested, leveraging platforms like Amazon, Flipkart, and Myntra to maximize market reach and engagement.
+  # Objective
+  Vrindha Store wants to create an annual sales report for 2023. So that, this store can understand their customers and grow more sales in 2024. Implemented an advanced Fashion Store Dashboard using **EXCEL**.
+
+  # Sample Insights
+Women are more likely to buy compared to men (~65%)
+
+Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35)
+
+Adult age group (30-49 yrs) is max contributing (~50%)
+
+Amazon, Flipkart and Myntra channels are max contributing (~80)
+
+# Final Conclusion to improve Fashion store sales:
+
+Target **women** customers of age group (30-49 yrs) living in **Maharashtra**, **Karnataka** and **Uttar Pradesh** by showing ads/offers/coupons available on **Amazon**, **Flipkart** and **Myntra**
