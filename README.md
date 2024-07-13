@@ -1,5 +1,4 @@
 
-![img-1](https://github.com/Nandurisivasankar/Vrinda-Store-Data-Analysis/assets/155547931/de301b48-88f7-4adf-8fda-67fd4283a807)
 
 # Vrindha Store Data Analysis Using Excel
 
